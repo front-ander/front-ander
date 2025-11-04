@@ -46,8 +46,7 @@
 
 ---
 
-# 🌐 Encuéntrame en:
-🎥 [**YouTube**](https://www.youtube.com/channel/UCydAbXurGp6kvF6IDO8-6vA) — Comparto contenido sobre desarrollo web, bases de datos y proyectos personales.  
+# 🌐 Encuéntrame en:  
 🎬 [**TikTok**](https://www.tiktok.com/@ff.andy20) — Tips rápidos de programación y curiosidades del mundo tech.  
  
 
